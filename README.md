@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Julia Mesquita, a software developer in training. I currently work as a intern in Software Development at Ibrowse. I'm at university and I study several programming languages ​​and I'm passionate about Front-End and I too explore different types of technologies.
+I'm Julia Mesquita, a software developer in training. I currently work as a intern in Software Development at Ibrowse. I'm at university and I study several programming languages ​​and I'm passionate about Full Stack and I too explore different types of technologies.
 
 # Tech Stack 💻
 
