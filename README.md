@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Julia Mesquita, a software developer in training. I currently work as a intern in Software Development at Ibrowse. I'm at university and I study several programming languages ​​and I'm passionate about Full Stack and I too explore different types of technologies.
+I'm Julia Mesquita, software developer with 1+ years of experience, adept at designing and developing scalable data systems for management and services. Familiar with agile methodologies, continuous delivery, microservices, cloud, and infrastructure as code.
 
 # Tech Stack 💻
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # Socials 🌐
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaejulia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-mesquita-463254205/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-mesquita-463254205/)
